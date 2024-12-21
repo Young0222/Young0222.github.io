@@ -24,11 +24,11 @@ author:
   avatar           : "ziyang.png"
   name             : "Ziyang Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student, School of Software, Tsinghua University"
+  location         : "Beijing, China"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liu-zy21@mails.tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
