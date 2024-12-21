@@ -9,10 +9,5 @@ redirect_from:
 
 I am a PhD student in the [School of Software](https://www.thss.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chaokun Wang](https://wangchaokun.github.io/index.html). Before that, I was a postgraduate student in the [College of Intelligence and Computing](https://cic.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/), where I was fortunate to be advised by Prof. [Di Jin](https://cic.tju.edu.cn/faculty/jindi/index.htm) and Prof. [Dongxiao He](https://cic.tju.edu.cn/faculty/hedongxiao/index.htm).
 
-Research
-======
-My research focuses on Graph Neural Network (GNN) and its applications. I have developed different methods for enhancing the capability of GNNs or graph contrastive learning from different aspects, including high-quality embedding (ICDE'24, TKDE'24), efficient storage & computation (ICDE'23), and structure-preserving (IJCAI'24).
-
-I am currently interested in leveraging GNNs to solve the challenges in biology.
 
 
