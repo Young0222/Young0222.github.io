@@ -20,6 +20,6 @@ Contact
 The easiest way to reach me is email. My address is liu-zy21@mails.tsinghua.edu.cn.
 
 What’s New
-------
-\[Dec. 2024\] One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI’2025)!
+======
+[Dec. 2024] One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI’2025)!
 
