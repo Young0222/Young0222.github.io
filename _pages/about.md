@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/44f3f2cd-8521-4fcf-807f-0b35772bf771)![image](https://github.com/user-attachments/assets/29da9d9f-626b-47c8-9ba8-5a7f6abc8a86)---
+---
 permalink: /
 title: "Welcome to Ziyang's Homepage!"
 author_profile: true
