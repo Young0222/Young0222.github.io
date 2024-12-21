@@ -21,7 +21,7 @@ The easiest way to reach me is email. My address is liu-zy21@mails.tsinghua.edu.
 
 What’s New
 ======
-* [Dec. 2024] One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI’2025)!
+* [Dec. 2024] One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI’2025)!
 * [Dec. 2024] One paper “Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems” has been accepted to ACM Transactions on Recommender Systems (ToRS)!
 * [Jul. 2024] One paper “Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss” has been accepted to Transactions on Knowledge and Data Engineering (TKDE)!
 * [Apr. 2024] One paper “Graph Contrastive Learning with Reinforcement Augmentation” has been accepted to the 33rd International Joint Conference on Artificial Intelligence (IJCAI'24)!
