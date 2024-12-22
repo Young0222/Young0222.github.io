@@ -7,9 +7,4 @@
 main:
   - title: "Publications"
     url: /publications/ 
-    
-  - title: "Services"
-    url: /portfolio/
-        
-  - title: "CV"
-    url: /draft/
+  
