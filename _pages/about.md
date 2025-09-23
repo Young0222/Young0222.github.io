@@ -37,10 +37,11 @@ The easiest way to reach me is email. My address is ziyang.liu@childrens.harvard
 
 What’s New
 ======
-* [Sep. 2025] 🌟 One paper “Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation” has been accepted to NeurIPS 2025!
-* [Sep. 2025] 🌟 One paper “PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL” has been accepted to SIGMOD 2025!
+* [Sep. 2025] 🌟 One paper “Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation” has been accepted to **NeurIPS 2025**!
+* [Sep. 2025] 🌟 One paper “PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL” has been accepted to **SIGMOD 2025**!
+* [Aug. 2025] 🌟 One paper “LAGCL4Rec: When LLMs Activate Interactions Potential in Graph Contrastive Learning for Recommendation” has been accepted in principle to **Nature Communications**!
 * [Aug. 2025] 🌟 One paper “LAGCL4Rec: When LLMs Activate Interactions Potential in Graph Contrastive Learning for Recommendation” has been accepted to EMNLP 2025 (findings)!
-* [Jun. 2025] 🌟 One paper “TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion” has been accepted to ACL 2025 (main conference)!
+* [Jun. 2025] 🌟 One paper “TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion” has been accepted to **ACL 2025 (main conference)**!
 * [Apr. 2025] 🌟 One paper “Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning” has been accepted to SIGIR 2025!
 * [Dec. 2024] 🌟 One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to AAAI 2025!
 * [Dec. 2024] 🌟 One paper “Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems” has been accepted to ACM Transactions on Recommender Systems (ToRS)!
