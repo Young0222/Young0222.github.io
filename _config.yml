@@ -24,9 +24,7 @@ author:
   avatar           : "ziyang.png"
   name             : "Ziyang Liu"
   pronouns         : # example: "she/her"  
-  bio              : |
-    Research fellow @ Department of Pediatrics, Harvard Medical School
-    PhD @ School of Software, Tsinghua University
+  bio              : Research fellow @ Department of Pediatrics, Harvard Medical School
   location         : "300 Longwood Avenue, Boston"
   employer         : "Harvard Medical School"
   uri              : # URL
