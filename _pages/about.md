@@ -13,16 +13,16 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 
 ## Education & Experience
  
-**💼 Postdoctoral Research Fellow     Sep. 2025 – Present**  
+**💼 Postdoctoral Research Fellow &nbsp;&nbsp;&nbsp;&nbsp; Sep. 2025 – Present**  
 [Boston Children’s Hospital](https://www.childrenshospital.org/) & [Harvard Medical School](https://hms.harvard.edu/)  
   
-**🎓 Ph.D. in Software Engineering    Sep. 2021 – Jun. 2025**  
+**🎓 Ph.D. in Software Engineering &nbsp;&nbsp;&nbsp;&nbsp; Sep. 2021 – Jun. 2025**  
 [School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/)  
 
-**💼 Algorithm Engineer      Feb. 2019 – Aug. 2021**  
+**💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp; Feb. 2019 – Aug. 2021**  
 [JD.com](https://www.jd.com/)  
 
-**🎓 B.S./M.S. in Computer Science      Sep. 2012 – Jan. 2019**  
+**🎓 B.S./M.S. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp; Sep. 2012 – Jan. 2019**  
 [School of Computer Science](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/)  
 
 </div>
