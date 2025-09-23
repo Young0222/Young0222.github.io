@@ -22,7 +22,7 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 **Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JD.com](https://www.jd.com/)  **  
 
 
-**Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp;  🎓 B.S./M.S. in Computer Science &nbsp;&nbsp;&nbsp;&nbsp; [School of Computer Science](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/)  **  
+**Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp;  🎓 B.S./M.S. in Computer Science &nbsp;&nbsp;&nbsp; [School of Computer Science](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/)  **  
 
 
 Research
