@@ -19,7 +19,7 @@ Sep. 2025 – Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💼  Po
 Sep. 2021 – Jun. 2025 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Ph.D. in Software Engineering  &nbsp;&nbsp;&nbsp;&nbsp; Tsinghua University
 
 
-Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JD.com] ([https://www.jd.com/](https://fortune.com/company/jd-com/)) (Ranked #44 in Fortune Global 500)
+Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [JD.com](https://fortune.com/company/jd-com/) (Ranked #44 in Fortune Global 500)
 
 
 Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp;  🎓 B.S./M.S. in Computer Science &nbsp;&nbsp;&nbsp; Tianjin University  
