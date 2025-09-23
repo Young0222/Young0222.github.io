@@ -13,6 +13,8 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 
 ## Education & Experience
 
+<div style="font-size: 0.95rem; line-height: 1.6; max-width: 600px; margin: 2rem auto;">
+
 ### 💼 Postdoctoral Research Fellow  
 **Sep. 2025 – Present**  
 [Boston Children’s Hospital](https://www.childrenshospital.org/) & [Harvard Medical School](https://hms.harvard.edu/)  
@@ -28,6 +30,8 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 ### 🎓 B.S./M.S. in Computer Science  
 **Sep. 2012 – Jan. 2019**  
 [College of Intelligence and Computing](https://cic.tju.edu.cn/) (formerly School of Computer Science), [Tianjin University](https://www.tju.edu.cn/)  
+
+</div>
 
 Research
 ======
