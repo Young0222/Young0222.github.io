@@ -25,8 +25,6 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 **Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp; B.S./M.S. in Computer Science 🎓 **  
 [School of Computer Science](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/)  
 
-</div>
-
 Research
 ======
 Graph data is ubiquitous, e.g., social networks, recommendation systems, molecular graphs. My research focuses on Graph Neural Network (GNN) and its applications. I have developed different methods for enhancing the capability of GNNs or graph contrastive learning from different aspects, including high-quality embedding, efficient storage & computation, and structure-preserving.
