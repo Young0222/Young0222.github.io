@@ -13,8 +13,6 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 
 ## Education & Experience
 
-<div style="font-size: 0.95rem; line-height: 1.6; max-width: 600px; margin: 2rem auto;">
-
 ### 💼 Postdoctoral Research Fellow  
 **Sep. 2025 – Present**  
 [Boston Children’s Hospital](https://www.childrenshospital.org/) & [Harvard Medical School](https://hms.harvard.edu/)  
