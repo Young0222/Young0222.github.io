@@ -11,6 +11,24 @@ I am currently a Postdoctoral Research Fellow at Boston Children’s Hospital (t
 
 I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chaokun Wang](https://wangchaokun.github.io/index.html). Before that, I was a postgraduate student in the [College of Intelligence and Computing](https://cic.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/), where I was fortunate to be advised by Prof. [Di Jin](https://cic.tju.edu.cn/faculty/jindi/index.htm) and Prof. [Dongxiao He](https://cic.tju.edu.cn/faculty/hedongxiao/index.htm).
 
+## Education & Experience
+
+### 🎓 Postdoctoral Research Fellow  
+**Sep. 2025 – Present**  
+[Boston Children’s Hospital](https://www.childrenshospital.org/) & [Harvard Medical School](https://hms.harvard.edu/)  
+
+### 🎓 Ph.D. in Software Engineering  
+**Sep. 2021 – Jun. 2025**  
+[School of Software](https://www.thss.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/)  
+
+### 💼 Algorithm Engineer  
+**Feb. 2019 – Aug. 2021**  
+[JD.com](https://www.jd.com/)  
+
+### 🎓 B.S./M.S. in Computer Science  
+**Sep. 2012 – Jan. 2019**  
+[College of Intelligence and Computing](https://cic.tju.edu.cn/) (formerly School of Computer Science), [Tianjin University](https://www.tju.edu.cn/)  
+
 Research
 ======
 Graph data is ubiquitous, e.g., social networks, recommendation systems, molecular graphs. My research focuses on Graph Neural Network (GNN) and its applications. I have developed different methods for enhancing the capability of GNNs or graph contrastive learning from different aspects, including high-quality embedding, efficient storage & computation, and structure-preserving.
