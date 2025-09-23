@@ -23,7 +23,7 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 [JD.com](https://www.jd.com/)  
 
 **🎓 B.S./M.S. in Computer Science      Sep. 2012 – Jan. 2019**  
-[College of Intelligence and Computing](https://cic.tju.edu.cn/) (formerly School of Computer Science), [Tianjin University](https://www.tju.edu.cn/)  
+[School of Computer Science](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/)  
 
 </div>
 
