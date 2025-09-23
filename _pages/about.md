@@ -13,9 +13,9 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 
 Research
 ======
-My research focuses on Graph Neural Network (GNN) and its applications. I have developed different methods for enhancing the capability of GNNs or graph contrastive learning from different aspects, including high-quality embedding, efficient storage & computation, and structure-preserving.
+Graph data is ubiquitous, e.g., social networks, recommendation systems, molecular graphs. My research focuses on Graph Neural Network (GNN) and its applications. I have developed different methods for enhancing the capability of GNNs or graph contrastive learning from different aspects, including high-quality embedding, efficient storage & computation, and structure-preserving.
 
-I am currently interested in leveraging GNNs and large language models to solve the challenges in biology.
+I am currently interested in leveraging GNNs and large language models to solve the challenges in biology 🧬.
 
 Contact
 ======
