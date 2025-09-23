@@ -50,5 +50,6 @@ What’s New
 * [Mar. 2024] 🌟🤝 Two papers “Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs” and "GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs" have been accepted to **ICDE 2024**!
 * [Dec. 2022] 🌟 One paper “Fast Unsupervised Graph Embedding via Graph Zoom Learning” has been accepted to **ICDE 2023**!
 * [Sep. 2022] 🌟 One paper “Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search” has been accepted to **EMNLP 2022**!
-  (Legend: 🌟 First author | 🤝 Co-first author | 🔬 Corresponding author)
+
+(Legend: 🌟 First author | 🤝 Co-first author | 🔬 Corresponding author)
 
