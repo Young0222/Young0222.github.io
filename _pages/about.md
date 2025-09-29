@@ -31,26 +31,6 @@ Graph data is ubiquitous, e.g., social networks, recommendation systems, molecul
 
 I am currently interested in leveraging GNNs and large language models to solve the challenges in biology 🧬.
 
-Peer Review Contributions
-======
-| Year(s)              | Role     | Conference / Journal                                       |
-|----------------------|----------|-------------------------------------------------------------|
-| 2022–2025            | Reviewer | ICML                                                       |
-| 2022–2025            | Reviewer | NeurIPS                                                    |
-| 2022, 2023, 2024, 2026 | Reviewer | ICLR                                                     |
-| 2022, 2023, 2024, 2026 | Reviewer | AAAI                                                     |
-| 2022, 2024           | Reviewer | KDD                                                        |
-| 2024, 2025           | Reviewer | WWW                                                        |
-| 2025                 | Reviewer | ACL                                                        |
-| 2024, 2025           | Reviewer | ACM Multimedia (ACMMM)                                     |
-| 2025                 | Reviewer | Knowledge-Based Systems *(Journal)*                        |
-| 2023                 | Reviewer | Neural Networks *(Journal)*                                |
-| 2024                 | Reviewer | IEEE Big Data and Smart Computing *(Conf./Journal)*        |
-| 2023                 | Reviewer | Information Sciences *(Journal)*                           |
-| 2024                 | Reviewer | Expert Systems With Applications *(Journal)*               |
-| 2022                 | Reviewer | IEEE Trans. on Systems, Man, and Cybernetics: Systems      |
-| 2022                 | Reviewer | IEEE Trans. on Computational Social Systems                |
-|                      |          | *Additional reviewing activities not listed here.*         |
 
 Contact
 ======
