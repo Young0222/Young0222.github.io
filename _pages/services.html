@@ -1,36 +1,30 @@
 ---
-layout: archive
 title: "Services"
 permalink: /services/
+layout: single
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Academic Services
 
-{% include base_path %}
+### Conference Reviewer
+- ICML, 2025, 2024, 2023, 2022
+- NeurIPS, 2025, 2024, 2023, 2022
+- ICLR, 2026, 2024, 2023, 2022
+- AAAI, 2026, 2024, 2023, 2022
+- KDD, 2024, 2022
+- WWW, 2025, 2024
+- ACL, 2025
+- ACMMM, 2025, 2024
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
+### Journal Reviewer
+- Knowledge-Based Systems, 2025
+- Expert Systems With Applications, 2024
+- IEEE International Conference on Big Data and Smart Computing, 2024
+- Neural Networks, 2023
+- Information Science, 2023
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022
+- IEEE Transactions on Computational Social Systems, 2022
 
