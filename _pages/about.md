@@ -52,5 +52,5 @@ What’s New
 * [Dec. 2022] 🌟 One paper “Fast Unsupervised Graph Embedding via Graph Zoom Learning” has been accepted to **ICDE 2023**!
 * [Sep. 2022] 🌟 One paper “Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search” has been accepted to **EMNLP 2022**!
 
-Legend: 🌟 First author | 🤝 Co-author | 🔬 Corresponding author
+🌟 First author | 🤝 Co-author | 🔬 Corresponding author
 
