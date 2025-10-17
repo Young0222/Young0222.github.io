@@ -56,19 +56,83 @@ What’s New
   <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
     <p>
-      <strong>[Jun. 2025] 🌟</strong> One paper “<a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning</a>” has been accepted to <strong>SIGIR 2025</strong>!
+      <strong>[Apr. 2025] 🤝</strong> One paper “<a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning</a>” has been accepted to <strong>SIGIR 2025</strong>!
     </p>
   </div>
 </div>
 
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Dec. 2024] 🤝</strong> One paper “<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33401">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</a>” has been accepted to <strong>AAAI 2025</strong>!
+    </p>
+  </div>
+</div>
 
-* [Dec. 2024] 🤝 One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to **AAAI 2025**!
-* [Dec. 2024] 🌟 One paper “Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems” has been accepted to **ACM Transactions on Recommender Systems (ToRS)**!
-* [Jul. 2024] 🌟 One paper “Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss” has been accepted to **IEEE Transactions on Knowledge and Data Engineering (TKDE)**!
-* [Apr. 2024] 🌟 One paper “Graph Contrastive Learning with Reinforcement Augmentation” has been accepted to **IJCAI 2024**!
-* [Mar. 2024] 🌟🤝 Two papers “Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs” and "GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs" have been accepted to **ICDE 2024**!
-* [Dec. 2022] 🌟 One paper “Fast Unsupervised Graph Embedding via Graph Zoom Learning” has been accepted to **ICDE 2023**!
-* [Sep. 2022] 🌟 One paper “Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search” has been accepted to **EMNLP 2022**!
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/Pone-GNN.png" alt="Pone-GNN Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Dec. 2024] 🌟</strong> One paper “<a href="https://dl.acm.org/doi/10.1145/3711666">Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems</a>” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
+    </p>
+  </div>
+</div>
+
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/GEARED.png" alt="GEARED Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Jul. 2024] 🌟</strong> One paper “<a href="https://ieeexplore.ieee.org/document/10616385">Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss</a>” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
+    </p>
+  </div>
+</div>
+
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/GA2C.png" alt="GA2C Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Apr. 2024] 🌟</strong> One paper “<a href="https://www.ijcai.org/proceedings/2024/0246.pdf">Graph Contrastive Learning with Reinforcement Augmentation</a>” has been accepted to <strong>IJCAI 2024</strong>!
+    </p>
+  </div>
+</div>
+
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/GLATE.png" alt="GLATE Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Mar. 2024] 🌟</strong> One paper “<a href="https://ieeexplore.ieee.org/document/10598091">Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs</a>” has been accepted to <strong>ICDE 2024</strong>!
+    </p>
+  </div>
+</div>
+
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/GraphHI.png" alt="GraphHI Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Mar. 2024] 🤝</strong> One paper “<a href="https://ieeexplore.ieee.org/document/10598044">GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs</a>” has been accepted to <strong>ICDE 2024</strong>!
+    </p>
+  </div>
+</div>
+
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/GZL.png" alt="GZL Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Dec. 2022] 🌟</strong> One paper “<a href="https://ieeexplore.ieee.org/document/10184803">Fast Unsupervised Graph Embedding via Graph Zoom Learning</a>” has been accepted to <strong>ICDE 2023</strong>!
+    </p>
+  </div>
+</div>
+
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/BERM.png" alt="BERM Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Sep. 2022] 🌟</strong> One paper “<a href="https://aclanthology.org/2022.emnlp-industry.5/">Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search</a>” has been accepted to <strong>EMNLP 2022</strong>!
+    </p>
+  </div>
+</div>
+
 
 🌟 First author | 🤝 Co-author | 🔬 Corresponding author
 
