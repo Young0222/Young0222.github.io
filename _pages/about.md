@@ -42,22 +42,12 @@ What’s New
 * [Sep. 2025] 🤝 One paper “PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL” has been accepted to **SIGMOD 2025**!
 * [Aug. 2025] 🌟 One paper “Molecular Motif Learning as a pretraining objective for molecular property prediction” has been accepted in principle to **Nature Communications**!
 * [Aug. 2025] 🤝 One paper “LAGCL4Rec: When LLMs Activate Interactions Potential in Graph Contrastive Learning for Recommendation” has been accepted to **EMNLP 2025 (findings)**!
-* [Jun. 2025] 🌟 One paper “[TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion](https://aclanthology.org/2025.acl-long.473/)” has been accepted to **ACL 2025 (main conference)**!  
-  ![TeRDy Model Architecture](/images/TeRDy.png)
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 16px;">
-  <div style="flex: 0 0 auto;">
-    <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50%; height: auto;">
-  </div>
   <div style="flex: 1 1 auto;">
     <p><strong>[Jun. 2025] 🌟</strong> One paper “<a href="https://aclanthology.org/2025.acl-long.473/">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</a>” has been accepted to <strong>ACL 2025 (main conference)</strong>!</p>
   </div>
-</div>
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50%; height: auto; max-width: 400px; flex-shrink: 0;" />
-  <div style="flex: 1; min-width: 0; font-size: 1em; line-height: 1.6;">
-    <p>
-      <strong>[Jun. 2025] 🌟</strong> One paper “<a href="https://aclanthology.org/2025.acl-long.473/">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</a>” has been accepted to <strong>ACL 2025 (main conference)</strong>!
-    </p>
+  <div style="flex: 0 0 auto;">
+    <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50%; height: auto;">
   </div>
 </div>
 * [Apr. 2025] 🤝 One paper “Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning” has been accepted to **SIGIR 2025**!
