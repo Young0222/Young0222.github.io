@@ -42,14 +42,16 @@ What’s New
 * [Sep. 2025] 🤝 One paper “PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL” has been accepted to **SIGMOD 2025**!
 * [Aug. 2025] 🌟 One paper “Molecular Motif Learning as a pretraining objective for molecular property prediction” has been accepted in principle to **Nature Communications**!
 * [Aug. 2025] 🤝 One paper “LAGCL4Rec: When LLMs Activate Interactions Potential in Graph Contrastive Learning for Recommendation” has been accepted to **EMNLP 2025 (findings)**!
-<div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 16px;">
-  <div style="flex: 1 1 auto;">
-    <p><strong>[Jun. 2025] 🌟</strong> One paper “<a href="https://aclanthology.org/2025.acl-long.473/">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</a>” has been accepted to <strong>ACL 2025 (main conference)</strong>!</p>
-  </div>
-  <div style="flex: 0 0 auto;">
-    <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50%; height: auto;">
+
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+    <p>
+      <strong>[Jun. 2025] 🌟</strong> One paper “<a href="https://aclanthology.org/2025.acl-long.473/">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</a>” has been accepted to <strong>ACL 2025 (main conference)</strong>!
+    </p>
   </div>
 </div>
+
 * [Apr. 2025] 🤝 One paper “Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning” has been accepted to **SIGIR 2025**!
 * [Dec. 2024] 🤝 One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to **AAAI 2025**!
 * [Dec. 2024] 🌟 One paper “Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems” has been accepted to **ACM Transactions on Recommender Systems (ToRS)**!
