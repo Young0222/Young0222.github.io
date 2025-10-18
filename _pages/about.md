@@ -77,7 +77,7 @@ What’s New
   <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jun. 2025] 🤝 One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to <strong>AAAI 2025</strong>!
+      [Jun. 2025] 🤝 One paper “<span style="color: #1E90FF;">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</span>” has been accepted to <strong>AAAI 2025</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GCDR</strong> leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
@@ -92,7 +92,7 @@ What’s New
   <img src="/images/Pone-GNN.png" alt="Pone-GNN Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Dec. 2024] 🌟 One paper “Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
+      [Dec. 2024] 🌟 One paper “<span style="color: #1E90FF;">Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems</span>” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>Pone-GNN</strong> unifies positive and negative feedback via dual embeddings and contrastive learning in GNN-based recommendation.
@@ -107,7 +107,7 @@ What’s New
   <img src="/images/GEARED.png" alt="GEARED Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jul. 2024] 🌟 One paper “Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
+      [Jul. 2024] 🌟 One paper “<span style="color: #1E90FF;">Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss</span>” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GEARED</strong> boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
@@ -122,7 +122,7 @@ What’s New
   <img src="/images/GA2C.png" alt="GA2C Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Apr. 2024] 🌟 One paper “Graph Contrastive Learning with Reinforcement Augmentation” has been accepted to <strong>IJCAI 2024</strong>!
+      [Apr. 2024] 🌟 One paper “<span style="color: #1E90FF;">Graph Contrastive Learning with Reinforcement Augmentation</span>” has been accepted to <strong>IJCAI 2024</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GA2C</strong> formulates graph augmentation as a Markov process, leveraging reinforcement learning for meaningful, efficient contrastive views.
@@ -137,7 +137,7 @@ What’s New
   <img src="/images/GLATE.png" alt="GLATE Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Mar. 2024] 🌟 One paper “Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs” has been accepted to <strong>ICDE 2024</strong>!
+      [Mar. 2024] 🌟 One paper “<span style="color: #1E90FF;">Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs</span>” has been accepted to <strong>ICDE 2024</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GLATE</strong> adaptively optimizes contrastive loss temperatures to enhance embedding quality and training efficiency in graph contrastive learning.
@@ -152,7 +152,7 @@ What’s New
   <img src="/images/GraphHI.png" alt="GraphHI Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Mar. 2024] 🤝 One paper “GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs” has been accepted to <strong>ICDE 2024</strong>!
+      [Mar. 2024] 🤝 One paper “<span style="color: #1E90FF;">GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs</span>” has been accepted to <strong>ICDE 2024</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GraphHI</strong> enhances GNNs by dynamically integrating inter- and intra-model hidden insights with adaptive loss combination.
@@ -166,7 +166,7 @@ What’s New
   <img src="/images/GZL.png" alt="GZL Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Dec. 2022] 🌟 One paper “Fast Unsupervised Graph Embedding via Graph Zoom Learning” has been accepted to <strong>ICDE 2023</strong>!
+      [Dec. 2022] 🌟 One paper “<span style="color: #1E90FF;">Fast Unsupervised Graph Embedding via Graph Zoom Learning</span>” has been accepted to <strong>ICDE 2023</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GZL</strong> accelerates unsupervised graph representation learning via graph zoom-out and efficient point-to-point contrastive learning.
@@ -181,7 +181,7 @@ What’s New
   <img src="/images/BERM.png" alt="BERM Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Sep. 2022] 🌟 One paper “Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search” has been accepted to <strong>EMNLP 2022</strong>!
+      [Sep. 2022] 🌟 One paper “<span style="color: #1E90FF;">Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search</span>” has been accepted to <strong>EMNLP 2022</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: Efficient knowledge distillation with k-order relevance modeling enhances e-commerce search relevance and online performance.
