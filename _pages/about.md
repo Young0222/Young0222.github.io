@@ -48,7 +48,7 @@ What’s New
   <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jun. 2025] 🌟 One paper “TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion” has been accepted to <strong>ACL 2025 (main conference)</strong>!
+      [Jun. 2025] 🌟 One paper “<span style="color: blue;">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</span>” has been accepted to <strong>ACL 2025 (main conference)</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>TeRDy</strong> captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
@@ -63,7 +63,7 @@ What’s New
   <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Apr. 2025] 🤝 One paper “Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning” has been accepted to <strong>SIGIR 2025</strong>!
+      [Apr. 2025] 🤝 One paper “<span style="color: blue;">Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning</span>” has been accepted to <strong>SIGIR 2025</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>BPH4Rec</strong> integrates exposure-aware self-presentation and self-hiding mechanisms into graph contrastive learning for debiased recommendation.
