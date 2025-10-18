@@ -147,37 +147,50 @@ What’s New
   </div>
 </div>
 
-
-
-
-
-
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GraphHI.png" alt="GraphHI Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Mar. 2024] 🤝 One paper “<a href="https://ieeexplore.ieee.org/document/10598044">GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs</a>” has been accepted to <strong>ICDE 2024</strong>!
+      [Mar. 2024] 🤝 One paper “GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs” has been accepted to <strong>ICDE 2024</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: <strong>GraphHI</strong> enhances GNNs by dynamically integrating inter- and intra-model hidden insights with adaptive loss combination.
+      <a href="https://ieeexplore.ieee.org/document/10598044">Paper</a>
     </p>
   </div>
 </div>
 
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GZL.png" alt="GZL Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Dec. 2022] 🌟 One paper “<a href="https://ieeexplore.ieee.org/document/10184803">Fast Unsupervised Graph Embedding via Graph Zoom Learning</a>” has been accepted to <strong>ICDE 2023</strong>!
+      [Dec. 2022] 🌟 One paper “Fast Unsupervised Graph Embedding via Graph Zoom Learning” has been accepted to <strong>ICDE 2023</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: <strong>GZL</strong> accelerates unsupervised graph representation learning via graph zoom-out and efficient point-to-point contrastive learning.
+      <a href="https://ieeexplore.ieee.org/document/10184803">Paper</a>
+      <a href="https://github.com/Young0222/GZL">Code</a>
     </p>
   </div>
 </div>
 
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/BERM.png" alt="BERM Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Sep. 2022] 🌟 One paper “<a href="https://aclanthology.org/2022.emnlp-industry.5/">Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search</a>” has been accepted to <strong>EMNLP 2022</strong>!
+      [Sep. 2022] 🌟 One paper “Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search” has been accepted to <strong>EMNLP 2022</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: Efficient knowledge distillation with k-order relevance modeling enhances e-commerce search relevance and online performance.
+      <a href="https://aclanthology.org/2022.emnlp-industry.5">Paper</a>
+      <a href="https://github.com/Young0222/EMNLP-BERM">Code</a>
     </p>
   </div>
 </div>
+
 
 
 🌟 First author | 🤝 Co-author | 🔬 Corresponding author
