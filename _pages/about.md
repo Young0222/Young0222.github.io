@@ -43,7 +43,7 @@ What’s New
 * [Aug. 2025] 🌟 One paper “Molecular Motif Learning as a pretraining objective for molecular property prediction” has been accepted in principle to **Nature Communications**!
 * [Aug. 2025] 🤝 One paper “LAGCL4Rec: When LLMs Activate Interactions Potential in Graph Contrastive Learning for Recommendation” has been accepted to **EMNLP 2025 (findings)**!
 
-<br>
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
@@ -58,7 +58,7 @@ What’s New
   </div>
 </div>
 
-<br>
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
@@ -72,7 +72,7 @@ What’s New
   </div>
 </div>
 
-<br>
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
@@ -87,7 +87,7 @@ What’s New
   </div>
 </div>
 
-<br>
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/Pone-GNN.png" alt="Pone-GNN Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
@@ -102,7 +102,7 @@ What’s New
   </div>
 </div>
 
-<br>
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GEARED.png" alt="GEARED Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
@@ -117,7 +117,7 @@ What’s New
   </div>
 </div>
 
-<br>
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GA2C.png" alt="GA2C Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
@@ -132,7 +132,7 @@ What’s New
   </div>
 </div>
 
-<br>
+<div style="height: 0.5em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GLATE.png" alt="GLATE Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
