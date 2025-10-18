@@ -47,8 +47,12 @@ What’s New
   <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jun. 2025] 🌟 One paper “<a href="https://aclanthology.org/2025.acl-long.473/">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</a>” has been accepted to <strong>ACL 2025 (main conference)</strong>!<br>
-      TeRDy captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components. <a href="https://github.com/Young0222/TeRDy">Code</a>
+      [Jun. 2025] 🌟 One paper “TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion” has been accepted to <strong>ACL 2025 (main conference)</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: TeRDy captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
+      <a href="https://aclanthology.org/2025.acl-long.473/">Paper</a>
+      <a href="https://github.com/Young0222/TeRDy">Code</a>
     </p>
   </div>
 </div>
