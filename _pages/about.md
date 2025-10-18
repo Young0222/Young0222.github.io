@@ -43,6 +43,7 @@ What’s New
 * [Aug. 2025] 🌟 One paper “Molecular Motif Learning as a pretraining objective for molecular property prediction” has been accepted in principle to **Nature Communications**!
 * [Aug. 2025] 🤝 One paper “LAGCL4Rec: When LLMs Activate Interactions Potential in Graph Contrastive Learning for Recommendation” has been accepted to **EMNLP 2025 (findings)**!
 
+<br>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
@@ -57,36 +58,40 @@ What’s New
   </div>
 </div>
 
+<br>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Apr. 2025] 🤝 One paper “Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning” has been accepted to <strong>SIGIR 2025</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
-      Summary: TeRDy captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
+      Summary: BPH4Rec integrates exposure-aware self-presentation and self-hiding mechanisms into graph contrastive learning for debiased recommendation.
       <a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Paper</a>
     </p>
   </div>
 </div>
 
+<br>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Apr. 2025] 🤝 One paper “<a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning</a>” has been accepted to <strong>SIGIR 2025</strong>!
+      [Jun. 2025] 🤝 One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to <strong>AAAI 2025</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: GCDR leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33401">Paper</a>
+      <a href="https://github.com/Young0222/TeRDy">Code</a>
     </p>
   </div>
 </div>
 
-<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
-    <p>
-      [Dec. 2024] 🤝 One paper “<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33401">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</a>” has been accepted to <strong>AAAI 2025</strong>!
-    </p>
-  </div>
-</div>
+
+
+
+
+
 
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/Pone-GNN.png" alt="Pone-GNN Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
