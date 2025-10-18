@@ -51,7 +51,7 @@ What’s New
       [Jun. 2025] 🌟 One paper “TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion” has been accepted to <strong>ACL 2025 (main conference)</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
-      Summary: TeRDy captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
+      Summary: <strong>TeRDy</strong> captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
       <a href="https://aclanthology.org/2025.acl-long.473/">Paper</a>
       <a href="https://github.com/Young0222/TeRDy">Code</a>
     </p>
@@ -66,7 +66,7 @@ What’s New
       [Apr. 2025] 🤝 One paper “Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning” has been accepted to <strong>SIGIR 2025</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
-      Summary: BPH4Rec integrates exposure-aware self-presentation and self-hiding mechanisms into graph contrastive learning for debiased recommendation.
+      Summary: <strong>BPH4Rec</strong> integrates exposure-aware self-presentation and self-hiding mechanisms into graph contrastive learning for debiased recommendation.
       <a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Paper</a>
     </p>
   </div>
@@ -80,7 +80,7 @@ What’s New
       [Jun. 2025] 🤝 One paper “Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion” has been accepted to <strong>AAAI 2025</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
-      Summary: GCDR leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
+      Summary: <strong>GCDR</strong> leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33401">Paper</a>
       <a href="https://github.com/NoMultiply/GCDR">Code</a>
     </p>
@@ -95,7 +95,7 @@ What’s New
       [Dec. 2024] 🌟 One paper “Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
-      Summary: Pone-GNN unifies positive and negative feedback via dual embeddings and contrastive learning in GNN-based recommendation.
+      Summary: <strong>Pone-GNN</strong> unifies positive and negative feedback via dual embeddings and contrastive learning in GNN-based recommendation.
       <a href="https://dl.acm.org/doi/10.1145/3711666">Paper</a>
       <a href="https://github.com/Young0222/Pone-GNN">Code</a>
     </p>
@@ -110,7 +110,7 @@ What’s New
       [Jul. 2024] 🌟 One paper “Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
-      Summary: GEARED boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
+      Summary: <strong>GEARED</strong> boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
       <a href="https://dl.acm.org/doi/10.1145/3711666">Paper</a>
       <a href="https://github.com/Young0222/GEARED">Code</a>
     </p>
@@ -125,7 +125,7 @@ What’s New
       [Apr. 2024] 🌟 One paper “Graph Contrastive Learning with Reinforcement Augmentation” has been accepted to <strong>IJCAI 2024</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
-      Summary: GEARED boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
+      Summary: <strong>GA2C</strong> formulates graph augmentation as a Markov process, leveraging reinforcement learning for meaningful, efficient contrastive views.
       <a href="https://www.ijcai.org/proceedings/2024/0246.pdf">Paper</a>
       <a href="https://github.com/Young0222/GA2C">Code</a>
     </p>
@@ -140,7 +140,7 @@ What’s New
       [Mar. 2024] 🌟 One paper “Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs” has been accepted to <strong>ICDE 2024</strong>!
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
-      Summary: GLATE adaptively optimizes contrastive loss temperatures to enhance embedding quality and training efficiency in graph contrastive learning.
+      Summary: <strong>GLATE</strong> adaptively optimizes contrastive loss temperatures to enhance embedding quality and training efficiency in graph contrastive learning.
       <a href="https://ieeexplore.ieee.org/document/10598091">Paper</a>
       <a href="https://github.com/Young0222/GLATE">Code</a>
     </p>
