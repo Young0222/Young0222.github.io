@@ -34,7 +34,7 @@ I am currently interested in leveraging GNNs and large language models to solve 
 
 Contact
 ======
-The easiest way to reach me is email. My address is ziyang.liu@childrens.harvard.edu.
+The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@childrens.harvard.edu">ziyang.liu@childrens.harvard.edu</a>.
 
 What’s New
 ======
