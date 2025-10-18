@@ -58,6 +58,19 @@ What’s New
 </div>
 
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
+    <p>
+      [Apr. 2025] 🤝 One paper “Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning” has been accepted to <strong>SIGIR 2025</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: TeRDy captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
+      <a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Paper</a>
+    </p>
+  </div>
+</div>
+
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
     <p>
