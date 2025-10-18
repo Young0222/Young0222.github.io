@@ -87,47 +87,70 @@ What’s New
   </div>
 </div>
 
-
-
-
-
-
-
+<br>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/Pone-GNN.png" alt="Pone-GNN Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Dec. 2024] 🌟 One paper “<a href="https://dl.acm.org/doi/10.1145/3711666">Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems</a>” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
+      [Dec. 2024] 🌟 One paper “Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: Pone-GNN unifies positive and negative feedback via dual embeddings and contrastive learning in GNN-based recommendation.
+      <a href="https://dl.acm.org/doi/10.1145/3711666">Paper</a>
+      <a href="https://github.com/Young0222/Pone-GNN">Code</a>
     </p>
   </div>
 </div>
 
+<br>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GEARED.png" alt="GEARED Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jul. 2024] 🌟 One paper “<a href="https://ieeexplore.ieee.org/document/10616385">Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss</a>” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
+      [Jul. 2024] 🌟 One paper “Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: GEARED boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
+      <a href="https://dl.acm.org/doi/10.1145/3711666">Paper</a>
+      <a href="https://github.com/Young0222/GEARED">Code</a>
     </p>
   </div>
 </div>
 
+<br>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GA2C.png" alt="GA2C Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Apr. 2024] 🌟 One paper “<a href="https://www.ijcai.org/proceedings/2024/0246.pdf">Graph Contrastive Learning with Reinforcement Augmentation</a>” has been accepted to <strong>IJCAI 2024</strong>!
+      [Apr. 2024] 🌟 One paper “Graph Contrastive Learning with Reinforcement Augmentation” has been accepted to <strong>IJCAI 2024</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: GEARED boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
+      <a href="https://www.ijcai.org/proceedings/2024/0246.pdf">Paper</a>
+      <a href="https://github.com/Young0222/GA2C">Code</a>
     </p>
   </div>
 </div>
 
+<br>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GLATE.png" alt="GLATE Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Mar. 2024] 🌟 One paper “<a href="https://ieeexplore.ieee.org/document/10598091">Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs</a>” has been accepted to <strong>ICDE 2024</strong>!
+      [Mar. 2024] 🌟 One paper “Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs” has been accepted to <strong>ICDE 2024</strong>!
+    </p>
+    <p style="margin-top: 0.8em; margin-bottom: 0;">
+      Summary: GLATE adaptively optimizes contrastive loss temperatures to enhance embedding quality and training efficiency in graph contrastive learning.
+      <a href="https://ieeexplore.ieee.org/document/10598091">Paper</a>
+      <a href="https://github.com/Young0222/GLATE">Code</a>
     </p>
   </div>
 </div>
+
+
+
+
+
 
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/GraphHI.png" alt="GraphHI Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
