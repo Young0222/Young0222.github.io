@@ -27,7 +27,7 @@ Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp;  🎓 B.S./M.S. in Computer Sci
 
 Research
 ======
-Graph data is ubiquitous, e.g., social networks, recommendation systems, molecular graphs. My research focuses on Graph Neural Network (GNN) and its applications. I have developed different methods for enhancing the capability of GNNs or graph contrastive learning from different aspects, including high-quality embedding, efficient storage & computation, and structure-preserving.
+Graph data is ubiquitous, e.g., social networks, recommendation systems, molecular graphs. My research focuses on [Graph Neural Network (GNN)](https://en.wikipedia.org/wiki/Graph_neural_network) and its applications. I have developed different methods for enhancing the capability of GNNs or graph contrastive learning from different aspects, including high-quality embedding, efficient storage & computation, and structure-preserving.
 
 I am currently interested in leveraging GNNs and large language models to solve the challenges in biology 🧬.
 
