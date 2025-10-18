@@ -82,7 +82,7 @@ What’s New
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: GCDR leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33401">Paper</a>
-      <a href="https://github.com/Young0222/TeRDy">Code</a>
+      <a href="https://github.com/NoMultiply/GCDR">Code</a>
     </p>
   </div>
 </div>
