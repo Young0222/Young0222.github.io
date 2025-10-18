@@ -19,7 +19,7 @@ Sep. 2025 – Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💼  Po
 Sep. 2021 – Jun. 2025 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Ph.D. in Software Engineering  &nbsp;&nbsp;&nbsp;&nbsp; Tsinghua University
 
 
-Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp; [JD.com](https://fortune.com/company/jd-com/) (#44, Fortune Global 500 2024)
+Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp; JD.com (#44, Fortune Global 500 2024)
 
 
 Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp;  🎓 B.S./M.S. in Computer Science &nbsp;&nbsp;&nbsp; Tianjin University  
@@ -45,9 +45,10 @@ What’s New
 
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
-  <div style="flex: 1 !important; min-width: 0 !important; font-size: 1em !important; line-height: 1.6 !important;">
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      <strong>[Jun. 2025] 🌟</strong> One paper “<a href="https://aclanthology.org/2025.acl-long.473/">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</a>” has been accepted to <strong>ACL 2025 (main conference)</strong>!
+      [Jun. 2025] 🌟 One paper “<a href="https://aclanthology.org/2025.acl-long.473/">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</a>” has been accepted to <strong>ACL 2025 (main conference)</strong>!<br>
+      TeRDy captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components. <a href="https://github.com/Young0222/TeRDy">Code</a>
     </p>
   </div>
 </div>
