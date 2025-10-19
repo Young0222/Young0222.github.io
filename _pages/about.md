@@ -26,18 +26,18 @@ Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp;  🎓 B.S./M.S. in Computer Sci
 
 
 ## Research
-======
+
 Graph data is ubiquitous, e.g., social networks, recommendation systems, molecular graphs. My research focuses on [Graph Neural Network (GNN)](https://en.wikipedia.org/wiki/Graph_neural_network) and its applications. I have developed different methods for enhancing the capability of GNNs or graph contrastive learning from different aspects, including high-quality embedding, efficient storage & computation, and structure-preserving.
 
 I am currently interested in leveraging GNNs and large language models to solve the challenges in biology 🧬.
 
 
 ## Contact
-======
+
 The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@childrens.harvard.edu">ziyang.liu@childrens.harvard.edu</a>.
 
 ## What’s New
-======
+
 * [Sep. 2025] 🤝 One paper “Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation” has been accepted to **NeurIPS 2025**!
 * [Sep. 2025] 🤝 One paper “PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL” has been accepted to **SIGMOD 2025**!
 * [Aug. 2025] 🌟 One paper “Molecular Motif Learning as a pretraining objective for molecular property prediction” has been accepted in principle to **Nature Communications**!
