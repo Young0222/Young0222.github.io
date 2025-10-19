@@ -52,6 +52,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>TeRDy</strong> captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
+      <br>
       <a href="https://aclanthology.org/2025.acl-long.473/">Paper</a>
       <a href="https://github.com/Young0222/TeRDy">Code</a>
     </p>
@@ -67,6 +68,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>BPH4Rec</strong> integrates exposure-aware self-presentation and self-hiding mechanisms into graph contrastive learning for debiased recommendation.
+      <br>
       <a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Paper</a>
     </p>
   </div>
@@ -81,6 +83,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GCDR</strong> leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
+      <br>
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33401">Paper</a>
       <a href="https://github.com/NoMultiply/GCDR">Code</a>
     </p>
@@ -96,6 +99,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>Pone-GNN</strong> unifies positive and negative feedback via dual embeddings and contrastive learning in GNN-based recommendation.
+      <br>
       <a href="https://dl.acm.org/doi/10.1145/3711666">Paper</a>
       <a href="https://github.com/Young0222/Pone-GNN">Code</a>
     </p>
@@ -111,6 +115,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GEARED</strong> boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
+      <br>
       <a href="https://dl.acm.org/doi/10.1145/3711666">Paper</a>
       <a href="https://github.com/Young0222/GEARED">Code</a>
     </p>
@@ -126,6 +131,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GA2C</strong> formulates graph augmentation as a Markov process, leveraging reinforcement learning for meaningful, efficient contrastive views.
+      <br>
       <a href="https://www.ijcai.org/proceedings/2024/0246.pdf">Paper</a>
       <a href="https://github.com/Young0222/GA2C">Code</a>
     </p>
@@ -141,6 +147,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GLATE</strong> adaptively optimizes contrastive loss temperatures to enhance embedding quality and training efficiency in graph contrastive learning.
+      <br>
       <a href="https://ieeexplore.ieee.org/document/10598091">Paper</a>
       <a href="https://github.com/Young0222/GLATE">Code</a>
     </p>
@@ -156,6 +163,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GraphHI</strong> enhances GNNs by dynamically integrating inter- and intra-model hidden insights with adaptive loss combination.
+      <br>
       <a href="https://ieeexplore.ieee.org/document/10598044">Paper</a>
     </p>
   </div>
@@ -170,6 +178,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: <strong>GZL</strong> accelerates unsupervised graph representation learning via graph zoom-out and efficient point-to-point contrastive learning.
+      <br>
       <a href="https://ieeexplore.ieee.org/document/10184803">Paper</a>
       <a href="https://github.com/Young0222/GZL">Code</a>
     </p>
@@ -185,6 +194,7 @@ What’s New
     </p>
     <p style="margin-top: 0.8em; margin-bottom: 0;">
       Summary: Efficient knowledge distillation with k-order relevance modeling enhances e-commerce search relevance and online performance.
+      <br>
       <a href="https://aclanthology.org/2022.emnlp-industry.5">Paper</a>
       <a href="https://github.com/Young0222/EMNLP-BERM">Code</a>
     </p>
