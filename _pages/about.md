@@ -60,7 +60,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Apr. 2025] 🤝 One paper “<span style="color: #1E90FF;">Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning</span>” has been accepted to <strong>SIGIR 2025</strong>!
@@ -74,7 +74,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Jun. 2025] 🤝 One paper “<span style="color: #1E90FF;">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</span>” has been accepted to <strong>AAAI 2025</strong>!
@@ -89,7 +89,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/Pone-GNN.png" alt="Pone-GNN Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/Pone-GNN.png" alt="Pone-GNN Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Dec. 2024] 🌟 One paper “<span style="color: #1E90FF;">Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems</span>” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
@@ -104,7 +104,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/GEARED.png" alt="GEARED Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/GEARED.png" alt="GEARED Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Jul. 2024] 🌟 One paper “<span style="color: #1E90FF;">Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss</span>” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
@@ -119,7 +119,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/GA2C.png" alt="GA2C Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/GA2C.png" alt="GA2C Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Apr. 2024] 🌟 One paper “<span style="color: #1E90FF;">Graph Contrastive Learning with Reinforcement Augmentation</span>” has been accepted to <strong>IJCAI 2024</strong>!
@@ -134,7 +134,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/GLATE.png" alt="GLATE Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/GLATE.png" alt="GLATE Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Mar. 2024] 🌟 One paper “<span style="color: #1E90FF;">Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs</span>” has been accepted to <strong>ICDE 2024</strong>!
@@ -149,7 +149,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/GraphHI.png" alt="GraphHI Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/GraphHI.png" alt="GraphHI Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Mar. 2024] 🤝 One paper “<span style="color: #1E90FF;">GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs</span>” has been accepted to <strong>ICDE 2024</strong>!
@@ -163,7 +163,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/GZL.png" alt="GZL Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/GZL.png" alt="GZL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Dec. 2022] 🌟 One paper “<span style="color: #1E90FF;">Fast Unsupervised Graph Embedding via Graph Zoom Learning</span>” has been accepted to <strong>ICDE 2023</strong>!
@@ -178,7 +178,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/BERM.png" alt="BERM Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/BERM.png" alt="BERM Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Sep. 2022] 🌟 One paper “<span style="color: #1E90FF;">Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search</span>” has been accepted to <strong>EMNLP 2022</strong>!
