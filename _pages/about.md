@@ -50,7 +50,7 @@ What’s New
     <p>
       [Jun. 2025] 🌟 One paper “<span style="color: #1E90FF;">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</span>” has been accepted to <strong>ACL 2025 (main conference)</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>TeRDy</strong> captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
       <br>
       <a href="https://aclanthology.org/2025.acl-long.473/">Paper</a>
@@ -66,7 +66,7 @@ What’s New
     <p>
       [Apr. 2025] 🤝 One paper “<span style="color: #1E90FF;">Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning</span>” has been accepted to <strong>SIGIR 2025</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>BPH4Rec</strong> integrates exposure-aware self-presentation and self-hiding mechanisms into graph contrastive learning for debiased recommendation.
       <br>
       <a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Paper</a>
@@ -81,7 +81,7 @@ What’s New
     <p>
       [Jun. 2025] 🤝 One paper “<span style="color: #1E90FF;">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</span>” has been accepted to <strong>AAAI 2025</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GCDR</strong> leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
       <br>
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33401">Paper</a>
@@ -97,7 +97,7 @@ What’s New
     <p>
       [Dec. 2024] 🌟 One paper “<span style="color: #1E90FF;">Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems</span>” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>Pone-GNN</strong> unifies positive and negative feedback via dual embeddings and contrastive learning in GNN-based recommendation.
       <br>
       <a href="https://dl.acm.org/doi/10.1145/3711666">Paper</a>
@@ -113,7 +113,7 @@ What’s New
     <p>
       [Jul. 2024] 🌟 One paper “<span style="color: #1E90FF;">Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss</span>” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GEARED</strong> boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
       <br>
       <a href="https://dl.acm.org/doi/10.1145/3711666">Paper</a>
@@ -129,7 +129,7 @@ What’s New
     <p>
       [Apr. 2024] 🌟 One paper “<span style="color: #1E90FF;">Graph Contrastive Learning with Reinforcement Augmentation</span>” has been accepted to <strong>IJCAI 2024</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GA2C</strong> formulates graph augmentation as a Markov process, leveraging reinforcement learning for meaningful, efficient contrastive views.
       <br>
       <a href="https://www.ijcai.org/proceedings/2024/0246.pdf">Paper</a>
@@ -145,7 +145,7 @@ What’s New
     <p>
       [Mar. 2024] 🌟 One paper “<span style="color: #1E90FF;">Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs</span>” has been accepted to <strong>ICDE 2024</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GLATE</strong> adaptively optimizes contrastive loss temperatures to enhance embedding quality and training efficiency in graph contrastive learning.
       <br>
       <a href="https://ieeexplore.ieee.org/document/10598091">Paper</a>
@@ -161,7 +161,7 @@ What’s New
     <p>
       [Mar. 2024] 🤝 One paper “<span style="color: #1E90FF;">GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs</span>” has been accepted to <strong>ICDE 2024</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GraphHI</strong> enhances GNNs by dynamically integrating inter- and intra-model hidden insights with adaptive loss combination.
       <br>
       <a href="https://ieeexplore.ieee.org/document/10598044">Paper</a>
@@ -176,7 +176,7 @@ What’s New
     <p>
       [Dec. 2022] 🌟 One paper “<span style="color: #1E90FF;">Fast Unsupervised Graph Embedding via Graph Zoom Learning</span>” has been accepted to <strong>ICDE 2023</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GZL</strong> accelerates unsupervised graph representation learning via graph zoom-out and efficient point-to-point contrastive learning.
       <br>
       <a href="https://ieeexplore.ieee.org/document/10184803">Paper</a>
@@ -192,7 +192,7 @@ What’s New
     <p>
       [Sep. 2022] 🌟 One paper “<span style="color: #1E90FF;">Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search</span>” has been accepted to <strong>EMNLP 2022</strong>!
     </p>
-    <p style="margin-top: 0.8em; margin-bottom: 0;">
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: Efficient knowledge distillation with k-order relevance modeling enhances e-commerce search relevance and online performance.
       <br>
       <a href="https://aclanthology.org/2022.emnlp-industry.5">Paper</a>
