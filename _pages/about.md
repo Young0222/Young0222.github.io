@@ -45,7 +45,7 @@ What’s New
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 50% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Jun. 2025] 🌟 One paper “<span style="color: #1E90FF;">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</span>” has been accepted to <strong>ACL 2025 (main conference)</strong>!
