@@ -7,13 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
-
 I am currently a Postdoctoral Research Fellow at [Boston Children’s Hospital](https://www.childrenshospital.org/) (the world’s #1 ranked pediatric hospital), a primary teaching affiliate of [Harvard Medical School](https://hms.harvard.edu/) working under the mentorship of Prof. [Kaifu Chen](https://dms.hms.harvard.edu/people/kaifu-chen). My research focuses on decoding gene regulatory relationships and reconstructing cellular lineage trajectories using graph-based machine learning and single-cell multi-omics data.
 
 I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chaokun Wang](https://wangchaokun.github.io/index.html). Before that, I was a postgraduate student in the [College of Intelligence and Computing](https://cic.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/), where I was advised by Prof. [Di Jin](https://cic.tju.edu.cn/faculty/jindi/index.htm) and Prof. [Dongxiao He](https://cic.tju.edu.cn/faculty/hedongxiao/index.htm).
-
-</div>
 
 ## Education & Experience
  
