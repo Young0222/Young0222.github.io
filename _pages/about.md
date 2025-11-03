@@ -16,7 +16,7 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 Sep. 2025 – Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💼  Postdoctoral Research Fellow &nbsp;&nbsp;&nbsp;&nbsp; Harvard Medical School 
 
   
-Sep. 2021 – Jun. 2025 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Ph.D. in Software Engineering  &nbsp;&nbsp;&nbsp;&nbsp; Tsinghua University &nbsp;&nbsp;&nbsp;&nbsp; (GPA: 4.0)
+Sep. 2021 – Jun. 2025 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Ph.D. in Software Engineering  &nbsp;&nbsp;&nbsp;&nbsp; Tsinghua University &nbsp;&nbsp;&nbsp;&nbsp; (GPA: 4.0/4.0)
 
 
 Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; JD.com
