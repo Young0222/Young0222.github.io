@@ -12,18 +12,21 @@ I am currently a Postdoctoral Research Fellow at [Boston Children’s Hospital](
 I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Chaokun Wang](https://wangchaokun.github.io/index.html). Before that, I was a postgraduate student in the [College of Intelligence and Computing](https://cic.tju.edu.cn/) at [Tianjin University](https://www.tju.edu.cn/), where I was advised by Prof. [Di Jin](https://cic.tju.edu.cn/faculty/jindi/index.htm) and Prof. [Dongxiao He](https://cic.tju.edu.cn/faculty/hedongxiao/index.htm).
 
 ## Education & Experience
- 
+
+<small>
+  
 Sep. 2025 – Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💼  Postdoctoral Research Fellow &nbsp;&nbsp;&nbsp;&nbsp; Harvard Medical School 
 
   
 Sep. 2021 – Jun. 2025 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Ph.D. in Software Engineering  &nbsp;&nbsp;&nbsp;&nbsp; Tsinghua University &nbsp;&nbsp;&nbsp;&nbsp; (GPA: 4.0 &nbsp;&nbsp; Rank: 1/37)
 
 
-Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp; JD.com (#44, Fortune Global 500 2024)
+Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;&nbsp;&nbsp;&nbsp; JD.com
 
 
 Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp;  🎓 B.S./M.S. in Computer Science &nbsp;&nbsp;&nbsp; Tianjin University  
 
+</small>
 
 ## Research
 
