@@ -13,7 +13,7 @@ I received my Ph.D. from the [School of Software](https://www.thss.tsinghua.edu.
 
 ## Education & Experience
 
-<small>
+<small><small>
   
 Sep. 2025 – Present &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  💼  Postdoctoral Research Fellow &nbsp;&nbsp;&nbsp;&nbsp; Harvard Medical School 
 
@@ -26,7 +26,7 @@ Feb. 2019 – Aug. 2021 &nbsp;&nbsp;&nbsp;&nbsp;  💼 Algorithm Engineer &nbsp;
 
 Sep. 2012 – Jan. 2019 &nbsp;&nbsp;&nbsp;&nbsp;  🎓 B.S./M.S. in Computer Science &nbsp;&nbsp;&nbsp; Tianjin University  
 
-</small>
+</small></small>
 
 ## Research
 
