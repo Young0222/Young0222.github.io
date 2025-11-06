@@ -37,7 +37,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
 
 ## What’s New
 
-* [Nov. 2025] 🌟 One paper “Molecular Motif Learning as a pretraining objective for molecular property prediction” has been accepted to **Nature Communications**!
+* [Nov. 2025] 🌟 One paper “Molecular Motif Learning as a pretraining objective for molecular property prediction” has been accepted for publication in **Nature Communications**!
 * [Sep. 2025] 🤝 One paper “Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation” has been accepted to **NeurIPS 2025**!
 * [Sep. 2025] 🤝 One paper “PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL” has been accepted to **SIGMOD 2025**!
 * [Aug. 2025] 🤝 One paper “LAGCL4Rec: When LLMs Activate Interactions Potential in Graph Contrastive Learning for Recommendation” has been accepted to **EMNLP 2025 (findings)**!
