@@ -50,6 +50,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
       Summary: <strong>MotiL</strong> is an unsupervised pretraining method excels on both <strong>small molecules</strong> and <strong>protein macromolecules</strong>. It learns chemically consistent molecular representations by preserving both scaffold-level and whole-molecule structure, enabling state-of-the-art performance in molecular property prediction across diverse benchmarks.
       <br>
       <a href="https://www.nature.com/articles/s41467-025-66685-w">Paper</a>
+      <a href="https://codeocean.com/capsule/9672051/tree">Code</a>
     </p>
   </div>
 </div>
@@ -65,7 +66,6 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
       Summary: <strong>SDCGCL</strong> is a model-agnostic framework that effectively leverages negative feedback via dual-channel modeling, cross-channel calibration, and adaptive prediction—boosting performance across graph-based recommenders with minimal overhead.
       <br>
       <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/116921">Paper</a>
-      <a href="https://codeocean.com/capsule/9672051/tree">Code</a>
     </p>
   </div>
 </div>
