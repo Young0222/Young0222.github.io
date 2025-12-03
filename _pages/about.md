@@ -44,7 +44,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/MotiL.png" alt="MotiL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jun. 2025] 🌟 One paper “<span style="color: #1E90FF;">Molecular Motif Learning as a pretraining objective for molecular property prediction</span>” has been accepted to <strong>Nature Communications</strong>!
+      [Nov. 2025] 🌟 One paper “<span style="color: #1E90FF;">Molecular Motif Learning as a pretraining objective for molecular property prediction</span>” has been published on <strong>Nature Communications</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>MotiL</strong> is an unsupervised pretraining method excels on both <strong>small molecules</strong> and <strong>protein macromolecules</strong>. It learns chemically consistent molecular representations by preserving both scaffold-level and whole-molecule structure, enabling state-of-the-art performance in molecular property prediction across diverse benchmarks.
@@ -60,7 +60,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/SDCGCL.png" alt="SDCGCL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jun. 2025] 🤝 One paper “<span style="color: #1E90FF;">Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation</span>” has been accepted to <strong>NeurIPS 2025</strong>!
+      [Sep. 2025] 🤝 One paper “<span style="color: #1E90FF;">Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation</span>” has been accepted to <strong>NeurIPS 2025</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>SDCGCL</strong> is a model-agnostic framework that effectively leverages negative feedback via dual-channel modeling, cross-channel calibration, and adaptive prediction—boosting performance across graph-based recommenders with minimal overhead.
@@ -75,7 +75,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/LAGCL4Rec.png" alt="LAGCL4Rec Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jun. 2025] 🤝 One paper “<span style="color: #1E90FF;">LAGCL4Rec: WhenLLMsActivate Interactions Potential in Graph Contrastive Learning for Recommendation</span>” has been accepted to <strong>EMNLP 2025 (findings)</strong>!
+      [Aug 2025] 🤝 One paper “<span style="color: #1E90FF;">LAGCL4Rec: WhenLLMsActivate Interactions Potential in Graph Contrastive Learning for Recommendation</span>” has been accepted to <strong>EMNLP 2025 (findings)</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>LAGCL4Rec</strong> addresses key limitations (sparse interactions, coarse negative sampling, and unbalanced preference modeling) in recommender systems by integrating LLMs into graph contrastive learning across data, rank, and rerank levels.
@@ -121,7 +121,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jun. 2025] 🤝 One paper “<span style="color: #1E90FF;">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</span>” has been accepted to <strong>AAAI 2025</strong>!
+      [Dec. 2024] 🤝 One paper “<span style="color: #1E90FF;">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</span>” has been accepted to <strong>AAAI 2025</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GCDR</strong> leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
