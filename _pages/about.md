@@ -37,10 +37,52 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
 
 ## What’s New
 
-* [Nov. 2025] 🌟 One paper “Molecular Motif Learning as a pretraining objective for molecular property prediction” has been accepted for publication in **Nature Communications**!
-* [Sep. 2025] 🤝 One paper “Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation” has been accepted to **NeurIPS 2025**!
 * [Sep. 2025] 🤝 One paper “PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL” has been accepted to **SIGMOD 2025**!
-* [Aug. 2025] 🤝 One paper “LAGCL4Rec: When LLMs Activate Interactions Potential in Graph Contrastive Learning for Recommendation” has been accepted to **EMNLP 2025 (findings)**!
+
+<div style="height: 0.8em;"></div>
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/MotiL.png" alt="MotiL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
+    <p>
+      [Jun. 2025] 🌟 One paper “<span style="color: #1E90FF;">Molecular Motif Learning as a pretraining objective for molecular property prediction</span>” has been accepted to <strong>Nature Communications</strong>!
+    </p>
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
+      Summary: <strong>MotiL</strong> is an unsupervised pretraining method excels on both small molecules and protein macromolecules. It learns chemically consistent molecular representations by preserving both scaffold-level and whole-molecule structure, enabling state-of-the-art performance in molecular property prediction across diverse benchmarks.
+      <br>
+      <a href="https://www.nature.com/articles/s41467-025-66685-w">Paper</a>
+    </p>
+  </div>
+</div>
+
+<div style="height: 0.8em;"></div>
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/SDCGCL.png" alt="SDCGCL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
+    <p>
+      [Jun. 2025] 🤝 One paper “<span style="color: #1E90FF;">Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation</span>” has been accepted to <strong>NeurIPS 2025</strong>!
+    </p>
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
+      Summary: <strong>SDCGCL</strong> is a model-agnostic framework that effectively leverages negative feedback via dual-channel modeling, cross-channel calibration, and adaptive prediction—boosting performance across graph-based recommenders with minimal overhead.
+      <br>
+      <a href="https://openreview.net/forum?id=eQ79kT0QY1">Paper</a>
+    </p>
+  </div>
+</div>
+
+<div style="height: 0.8em;"></div>
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/LAGCL4Rec.png" alt="LAGCL4Rec Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
+    <p>
+      [Jun. 2025] 🤝 One paper “<span style="color: #1E90FF;">LAGCL4Rec: WhenLLMsActivate Interactions Potential in Graph Contrastive Learning for Recommendation</span>” has been accepted to <strong>EMNLP 2025 (findings)</strong>!
+    </p>
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
+      Summary: <strong>LAGCL4Rec</strong> addresses key limitations (sparse interactions, coarse negative sampling, and unbalanced preference modeling) in recommender systems by integrating LLMs into graph contrastive learning across data, rank, and rerank levels.
+      <br>
+      <a href="https://aclanthology.org/2025.findings-emnlp.61/">Paper</a>
+    </p>
+  </div>
+</div>
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
