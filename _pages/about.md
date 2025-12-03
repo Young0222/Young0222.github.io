@@ -41,13 +41,13 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
-  <img src="/images/MotiL.pdf" alt="MotiL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <img src="/images/MotiL.png" alt="MotiL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
       [Jun. 2025] 🌟 One paper “<span style="color: #1E90FF;">Molecular Motif Learning as a pretraining objective for molecular property prediction</span>” has been accepted to <strong>Nature Communications</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
-      Summary: <strong>MotiL</strong> is an unsupervised pretraining method excels on both small molecules and protein macromolecules. It learns chemically consistent molecular representations by preserving both scaffold-level and whole-molecule structure, enabling state-of-the-art performance in molecular property prediction across diverse benchmarks.
+      Summary: <strong>MotiL</strong> is an unsupervised pretraining method excels on both <strong>small molecules</strong> and <strong>protein macromolecules</strong>. It learns chemically consistent molecular representations by preserving both scaffold-level and whole-molecule structure, enabling state-of-the-art performance in molecular property prediction across diverse benchmarks.
       <br>
       <a href="https://www.nature.com/articles/s41467-025-66685-w">Paper</a>
     </p>
