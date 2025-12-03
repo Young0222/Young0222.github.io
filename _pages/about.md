@@ -50,7 +50,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
       Summary: <strong>MotiL</strong> is an unsupervised pretraining method excels on both <strong>small molecules</strong> and <strong>protein macromolecules</strong>. It learns chemically consistent molecular representations by preserving both scaffold-level and whole-molecule structure, enabling state-of-the-art performance in molecular property prediction across diverse benchmarks.
       <br>
       <a href="https://www.nature.com/articles/s41467-025-66685-w">Paper</a>
-      <a href="https://codeocean.com/capsule/9672051/tree">Code</a>
+      <!-- <a href="https://codeocean.com/capsule/9672051/tree">Code</a> -->
     </p>
   </div>
 </div>
@@ -96,7 +96,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
       Summary: <strong>TeRDy</strong> captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
       <br>
       <a href="https://aclanthology.org/2025.acl-long.473/">Paper</a>
-      <a href="https://github.com/Young0222/TeRDy">Code</a>
+      <!-- <a href="https://github.com/Young0222/TeRDy">Code</a> -->
     </p>
   </div>
 </div>
