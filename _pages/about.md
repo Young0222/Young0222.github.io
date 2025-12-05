@@ -66,6 +66,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
       Summary: <strong>SDCGCL</strong> is a model-agnostic framework that effectively leverages negative feedback via dual-channel modeling, cross-channel calibration, and adaptive prediction—boosting performance across graph-based recommenders with minimal overhead.
       <br>
       <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/116921">Paper</a>
+      <!-- <a href="https://github.com/LQgdwind/nips25-sdcgcl">Code</a> -->
     </p>
   </div>
 </div>
@@ -81,6 +82,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
       Summary: <strong>LAGCL4Rec</strong> addresses key limitations (sparse interactions, coarse negative sampling, and unbalanced preference modeling) in recommender systems by integrating LLMs into graph contrastive learning across data, rank, and rerank levels.
       <br>
       <a href="https://aclanthology.org/2025.findings-emnlp.61/">Paper</a>
+      <!-- <a href="https://github.com/LQgdwind/emnlp25-lagcl4rec">Code</a> -->
     </p>
   </div>
 </div>
@@ -112,6 +114,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
       Summary: <strong>BPH4Rec</strong> integrates exposure-aware self-presentation and self-hiding mechanisms into graph contrastive learning for debiased recommendation.
       <br>
       <a href="https://dl.acm.org/doi/10.1145/3726302.3729900">Paper</a>
+      <!-- <a href="https://github.com/LQgdwind/sigir25-bph4rec">Code</a> -->
     </p>
   </div>
 </div>
