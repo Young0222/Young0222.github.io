@@ -44,7 +44,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/MotiL.png" alt="MotiL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Nov. 2025] 🌟 One paper “<span style="color: #1E90FF;">Molecular Motif Learning as a pretraining objective for molecular property prediction</span>” has been published on <strong>Nature Communications</strong>!
+      [Nov. 2025] 🌟 One paper “<span style="color: #1E90FF;">Molecular Motif Learning as a pretraining objective for molecular property prediction</span>” has been published in <strong>Nature Communications</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>MotiL</strong> is an unsupervised pretraining method excels on both <strong>small molecules</strong> and <strong>protein macromolecules</strong>. It learns chemically consistent molecular representations by preserving both scaffold-level and whole-molecule structure, enabling state-of-the-art performance in molecular property prediction across diverse benchmarks.
@@ -60,7 +60,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/PLForge.png" alt="PLForge Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Sep. 2025] 🤝 One paper “<span style="color: #1E90FF;">PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL</span>” has been published on <strong>SIGMOD 2025</strong>!
+      [Sep. 2025] 🤝 One paper “<span style="color: #1E90FF;">PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL</span>” has been published at <strong>SIGMOD 2025</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>PLForge</strong> is a family of pre-trained language models (3B–15B parameters) specifically designed for translating natural language to PL/SQL. It leverages a curated PL/SQL corpus, incremental pre-training, and a tailored prompt strategy, and demonstrates its superiority over existing models on a newly constructed NL-to-PL/SQL benchmark.
@@ -76,7 +76,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/SDCGCL.png" alt="SDCGCL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Sep. 2025] 🤝 One paper “<span style="color: #1E90FF;">Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation</span>” has been accepted to <strong>NeurIPS 2025</strong>!
+      [Sep. 2025] 🤝 One paper “<span style="color: #1E90FF;">Negative Feedback Really Matters: Signed Dual-Channel Graph Contrastive Learning Framework for Recommendation</span>” has been published at <strong>NeurIPS 2025</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>SDCGCL</strong> is a model-agnostic framework that effectively leverages negative feedback via dual-channel modeling, cross-channel calibration, and adaptive prediction—boosting performance across graph-based recommenders with minimal overhead.
@@ -92,7 +92,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/LAGCL4Rec.png" alt="LAGCL4Rec Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Aug 2025] 🤝 One paper “<span style="color: #1E90FF;">LAGCL4Rec: WhenLLMsActivate Interactions Potential in Graph Contrastive Learning for Recommendation</span>” has been accepted to <strong>EMNLP 2025 (findings)</strong>!
+      [Aug 2025] 🤝 One paper “<span style="color: #1E90FF;">LAGCL4Rec: WhenLLMsActivate Interactions Potential in Graph Contrastive Learning for Recommendation</span>” has been published at <strong>EMNLP 2025 (findings)</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>LAGCL4Rec</strong> addresses key limitations (sparse interactions, coarse negative sampling, and unbalanced preference modeling) in recommender systems by integrating LLMs into graph contrastive learning across data, rank, and rerank levels.
@@ -108,7 +108,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/TeRDy.png" alt="TeRDy Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jun. 2025] 🌟 One paper “<span style="color: #1E90FF;">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</span>” has been accepted to <strong>ACL 2025 (main conference)</strong>!
+      [Jun. 2025] 🌟 One paper “<span style="color: #1E90FF;">TeRDy: Temporal Relation Dynamics through Frequency Decomposition for Temporal Knowledge Graph Completion</span>” has been published at <strong>ACL 2025 (main conference)</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>TeRDy</strong> captures long- and short-term temporal dynamics by decomposing relations into low- and high-frequency components.
@@ -124,7 +124,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/BPH4Rec.png" alt="BPH4Rec Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Apr. 2025] 🤝 One paper “<span style="color: #1E90FF;">Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning</span>” has been accepted to <strong>SIGIR 2025</strong>!
+      [Apr. 2025] 🤝 One paper “<span style="color: #1E90FF;">Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning</span>” has been published at <strong>SIGIR 2025</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>BPH4Rec</strong> integrates exposure-aware self-presentation and self-hiding mechanisms into graph contrastive learning for debiased recommendation.
@@ -140,7 +140,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/GCDR.png" alt="GCDR Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Dec. 2024] 🤝 One paper “<span style="color: #1E90FF;">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</span>” has been accepted to <strong>AAAI 2025</strong>!
+      [Dec. 2024] 🤝 One paper “<span style="color: #1E90FF;">Learning Multiple User Distributions for Recommendation via Guided Conditional Diffusion</span>” has been published at <strong>AAAI 2025</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GCDR</strong> leverages guided conditional diffusion to model disentangled and personalized user interest distributions for recommendation.
@@ -156,7 +156,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/Pone-GNN.png" alt="Pone-GNN Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Dec. 2024] 🌟 One paper “<span style="color: #1E90FF;">Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems</span>” has been accepted to <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
+      [Dec. 2024] 🌟 One paper “<span style="color: #1E90FF;">Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems</span>” has been published in <strong>ACM Transactions on Recommender Systems (ToRS)</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>Pone-GNN</strong> unifies positive and negative feedback via dual embeddings and contrastive learning in GNN-based recommendation.
@@ -172,7 +172,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/GEARED.png" alt="GEARED Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Jul. 2024] 🌟 One paper “<span style="color: #1E90FF;">Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss</span>” has been accepted to <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
+      [Jul. 2024] 🌟 One paper “<span style="color: #1E90FF;">Efficient Unsupervised Graph Embedding with Attributed Graph Reduction and Dual-level Loss</span>” has been published in <strong>IEEE Transactions on Knowledge and Data Engineering (TKDE)</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GEARED</strong> boosts efficiency and embedding quality via graph reduction and adaptive dual-level contrastive loss.
@@ -188,7 +188,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/GA2C.png" alt="GA2C Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Apr. 2024] 🌟 One paper “<span style="color: #1E90FF;">Graph Contrastive Learning with Reinforcement Augmentation</span>” has been accepted to <strong>IJCAI 2024</strong>!
+      [Apr. 2024] 🌟 One paper “<span style="color: #1E90FF;">Graph Contrastive Learning with Reinforcement Augmentation</span>” has been published at <strong>IJCAI 2024</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GA2C</strong> formulates graph augmentation as a Markov process, leveraging reinforcement learning for meaningful, efficient contrastive views.
@@ -204,7 +204,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/GLATE.png" alt="GLATE Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Mar. 2024] 🌟 One paper “<span style="color: #1E90FF;">Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs</span>” has been accepted to <strong>ICDE 2024</strong>!
+      [Mar. 2024] 🌟 One paper “<span style="color: #1E90FF;">Incorporating Dynamic Temperature Estimation into Contrastive Learning on Graphs</span>” has been published at <strong>ICDE 2024</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GLATE</strong> adaptively optimizes contrastive loss temperatures to enhance embedding quality and training efficiency in graph contrastive learning.
@@ -220,7 +220,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/GraphHI.png" alt="GraphHI Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Mar. 2024] 🤝 One paper “<span style="color: #1E90FF;">GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs</span>” has been accepted to <strong>ICDE 2024</strong>!
+      [Mar. 2024] 🤝 One paper “<span style="color: #1E90FF;">GraphHI: Boosting Graph Neural Networks for Large-Scale Graphs</span>” has been published at <strong>ICDE 2024</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GraphHI</strong> enhances GNNs by dynamically integrating inter- and intra-model hidden insights with adaptive loss combination.
@@ -235,7 +235,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/GZL.png" alt="GZL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Dec. 2022] 🌟 One paper “<span style="color: #1E90FF;">Fast Unsupervised Graph Embedding via Graph Zoom Learning</span>” has been accepted to <strong>ICDE 2023</strong>!
+      [Dec. 2022] 🌟 One paper “<span style="color: #1E90FF;">Fast Unsupervised Graph Embedding via Graph Zoom Learning</span>” has been published at <strong>ICDE 2023</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>GZL</strong> accelerates unsupervised graph representation learning via graph zoom-out and efficient point-to-point contrastive learning.
@@ -251,7 +251,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
   <img src="/images/BERM.png" alt="BERM Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
-      [Sep. 2022] 🌟 One paper “<span style="color: #1E90FF;">Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search</span>” has been accepted to <strong>EMNLP 2022</strong>!
+      [Sep. 2022] 🌟 One paper “<span style="color: #1E90FF;">Knowledge Distillation based Contextual Relevance Matching for E-commerce Product Search</span>” has been published at <strong>EMNLP 2022</strong>!
     </p>
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: Efficient knowledge distillation with k-order relevance modeling enhances e-commerce search relevance and online performance.
