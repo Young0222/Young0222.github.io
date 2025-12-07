@@ -57,6 +57,22 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
 
 <div style="height: 0.8em;"></div>
 <div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
+  <img src="/images/PLForge.png" alt="PLForge Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
+  <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
+    <p>
+      [Sep. 2025] 🤝 One paper “<span style="color: #1E90FF;">PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL</span>” has been published on <strong>SIGMOD 2025</strong>!
+    </p>
+    <p style="margin-top: 0.6em; margin-bottom: 0;">
+      Summary: <strong>PLForge</strong> is a family of pre-trained language models (3B–15B parameters) specifically designed for translating natural language to PL/SQL. It leverages a curated PL/SQL corpus, incremental pre-training, and a tailored prompt strategy, and demonstrates its superiority over existing models on a newly constructed NL-to-PL/SQL benchmark.
+      <br>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3769813">Paper</a>
+      <a href="https://github.com/ZhanGHanG9991/plforge">Code</a>
+    </p>
+  </div>
+</div>
+
+<div style="height: 0.8em;"></div>
+<div style="display: flex !important; align-items: flex-start !important; gap: 20px !important; margin-bottom: 20px !important;">
   <img src="/images/SDCGCL.png" alt="SDCGCL Model Architecture" style="width: 30% !important; height: auto !important; max-width: 400px !important; flex-shrink: 0 !important;" />
   <div style="flex: 1 !important; min-width: 0 !important; font-size: 0.8em !important; line-height: 1.6 !important;">
     <p>
