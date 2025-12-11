@@ -81,7 +81,7 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
     <p style="margin-top: 0.6em; margin-bottom: 0;">
       Summary: <strong>SDCGCL</strong> is a model-agnostic framework that effectively leverages negative feedback via dual-channel modeling, cross-channel calibration, and adaptive prediction—boosting performance across graph-based recommenders with minimal overhead.
       <br>
-      <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/116921">Paper</a>
+      <a href="https://openreview.net/forum?id=eQ79kT0QY1">Paper</a>
       <a href="https://github.com/LQgdwind/nips25-sdcgcl">Code</a>
     </p>
   </div>
