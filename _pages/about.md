@@ -37,6 +37,8 @@ The easiest way to reach me is email. My address is <a href="mailto:ziyang.liu@c
 
 ## What’s New
 
+<!-- * [Sep. 2025] 🌟 One poster “Robust Cell Lineage Completion via Graph Neural Networks under Extreme Label Sparsity” has been accepted to **the 2025 Retreat of Broad Institute**! -->
+
 <!-- * [Sep. 2025] 🤝 One paper “PLForge: Enhancing Language Models for Natural Language to Procedural Extensions of SQL” has been accepted to **SIGMOD 2025**! -->
 
 <div style="height: 0.8em;"></div>
